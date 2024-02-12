@@ -1,0 +1,22 @@
+# Snippets:
+.vscode/Comment.Header.code-snippets
+
+# Pycache:
+src/models/__pycache__/LearningAlgorithms.cpython-38.pyc
+src/features/__pycache__/DataTransformation.cpython-38.pyc
+src/features/__pycache__/FrequencyAbstraction.cpython-38.pyc
+src/features/__pycache__/TemporalAbstraction.cpython-38.pyc
+src/visualization/plot_settings.py
+
+# Workspace
+DS - Fitness Tracker.code-workspace
+
+# Video Tutorials:
+Machine Learning Guided Project/Full Machine Learning Project — (Part 1) Coding a Fitness Tracker with Python.mp4
+Machine Learning Guided Project/Full Machine Learning Project — (Part 2) Processing Raw Data.mp4
+Machine Learning Guided Project/Full Machine Learning Project — (Part 3) Data Visualization with Matplotlib.mp4
+Machine Learning Guided Project/Full Machine Learning Project — (Part 4) Detecting Outliers in Sensor Data.mp4
+Machine Learning Guided Project/Full Machine Learning Project — (Part 5a) Low-pass Filter & Principal Component Analysis.mp4
+Machine Learning Guided Project/Full Machine Learning Project — (Part 5b) Fourier Transformation & Clustering.mp4
+Machine Learning Guided Project/Full Machine Learning Project — (Part 6) Predictive Modelling.mp4
+Machine Learning Guided Project/Full Machine Learning Project — (Part 7) Counting Repetitions.mp4
